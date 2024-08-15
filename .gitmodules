@@ -1,6 +1,6 @@
-[submodule "serveur"]
-	path = serveur
-	url = git@github.com:planche-electronique/serveur.git
-[submodule "site"]
-	path = site
-	url = git@github.com:planche-electronique/site.git
+[submodule "client"]
+	path = client
+	url = git@github.com:planche-electronique/client.git
+[submodule "cepo"]
+	path = cepo
+	url = git@github.com:planche-electronique/cepo.git
